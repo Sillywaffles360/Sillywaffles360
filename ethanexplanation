@@ -1,0 +1,21 @@
+
+
+public class Fraction {
+
+  private int a;
+  private int b;
+  
+  public Fraction(int a, int b) {
+    this.a = a;
+    this.b = b;
+  }
+  
+  public double decimalValue() {
+    return a / b;
+  }
+  
+}
+
+Fraction frac = new Fraction(5, 7);
+System.out.println(frac.b);
+

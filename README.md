@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Sillywaffles360
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning coding
-- 💞️ I’m looking to collaborate on anything and everything
+- 💞️ I’m looking to collaborate on robotics related things
 - 📫 How to reach me....... you can't lol.
 
 <!---

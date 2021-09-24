@@ -1,6 +1,13 @@
-public static void main (String []args) {
-  System.out.println("Hello World");
+class FrenchFry {
+  enum FrenchFrySize{ SMALL, MEDIUM, LARGE, ULTIMATE}
+  FrenchFrySize size;
 }
 
+public class FrenchFryTest {
 
-
+  public static void main(String args[]) {
+    FrenchFry fry = new FrenchFry();
+    fry.size = FrenchFry.FrenchFrySize.ULTIMATE ;
+    System.out.println("Size:" + fry.size);
+  }
+}
